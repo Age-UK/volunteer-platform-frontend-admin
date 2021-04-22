@@ -1,0 +1,16 @@
+version: "3.8"
+services:
+  node:
+    image: "node:14-alpine"
+    user: "node"
+    working_dir: /home/node/app
+    env_file: .env.development.local
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/home/node/app
+      - /home/node/app/node_modules
+    ports:
+      - 8080:8080
+    command: npm run serve

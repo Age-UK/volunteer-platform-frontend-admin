@@ -1,0 +1,75 @@
+<svg id="94fbc8ab-efab-4c75-bdbe-8c488f21faaa" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="410.74" height="200.04" viewBox="0 0 410.74 200.04">
+  <defs>
+    <clipPath id="c4637081-0881-48ca-8e4f-b724b91e898c" transform="translate(13.54 13.69)">
+      <path d="M21.77,101.18s18,28,38.22,19.32S90.35,65.82,91.93,57.7c-13.79,19.84-44.42,50.47-70.16,43.48" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="4ea85984-5592-4c61-8fd5-38ed7c250fda" x1="8.52" y1="399.77" x2="12.09" y2="399.77" gradientTransform="matrix(-18.87, 0, 0, 18.87, 267.62, -7451.38)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75caf0"/>
+      <stop offset="0.08" stop-color="#5ac0ed"/>
+      <stop offset="0.26" stop-color="#16a6e5"/>
+      <stop offset="0.32" stop-color="#009de2"/>
+      <stop offset="0.6" stop-color="#1172bd"/>
+      <stop offset="1" stop-color="#2d2e82"/>
+    </linearGradient>
+    <clipPath id="f671e612-3b12-4d96-8498-bfd180684054" transform="translate(13.54 13.69)">
+      <path d="M37.57,55.81C26,55.81,15.08,58,8.89,64.66-11,86.11,24.4,110.2,24.4,110.2S6.91,93,23.78,81.1c13.11-9.25,44.33-1.64,44.41-1.43,5.75-4.1,15.27-16.2,15.27-16.2s-24.14-7.66-45.88-7.66h0" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="0df08358-5794-43c7-bdf6-800d1bf14037" x1="-20.44" y1="387.18" x2="-16.87" y2="387.18" gradientTransform="matrix(22.59, 0, 0, -22.59, 478.08, 8842.42)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c3db9a"/>
+      <stop offset="0.21" stop-color="#a0c964"/>
+      <stop offset="0.37" stop-color="#8abe41"/>
+      <stop offset="0.55" stop-color="#7eb243"/>
+      <stop offset="0.86" stop-color="#5f9447"/>
+      <stop offset="0.95" stop-color="#558a49"/>
+      <stop offset="1" stop-color="#558a49"/>
+    </linearGradient>
+    <clipPath id="fdff1d52-d107-49d1-b51c-970a39c2553e" transform="translate(13.54 13.69)">
+      <path d="M117.91,18.57c-17.45,11.08-23.66,45-23.66,45s2.7-8.53,12-18.48c13.44-14.42,50.83-22.64,60-9.69,0,0-2-9.4-9.18-15.21-5.73-4.64-13.08-6.5-20.16-6.5-7.31,0-14.31,2-19,4.92" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="4f5d9a1d-2ecb-43d0-917f-5a609313b890" x1="0.11" y1="408.54" x2="3.68" y2="408.54" gradientTransform="matrix(-20.15, 0, 0, 20.15, 181.92, -8180.72)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f19ac0"/>
+      <stop offset="0.05" stop-color="#f08cba"/>
+      <stop offset="0.15" stop-color="#ed67aa"/>
+      <stop offset="0.28" stop-color="#e82c90"/>
+      <stop offset="0.37" stop-color="#e4007d"/>
+      <stop offset="0.51" stop-color="#dc0078"/>
+      <stop offset="0.72" stop-color="#c5006c"/>
+      <stop offset="0.99" stop-color="#a00058"/>
+      <stop offset="1" stop-color="#9f0057"/>
+    </linearGradient>
+    <clipPath id="07d1cb3d-4dc8-4ae7-9b37-7fee1e2797e1" transform="translate(13.54 13.69)">
+      <path d="M162.76,50.18s-25,19.26-69.84,17.5c0,0-2.17,9.12-5.2,17.86,1,.69,65,6.53,90.12-19.75,0,0,17.25-18.09-11.85-39,0,0,10.43,12.91-3.23,23.38" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="54ccdf52-6b46-4196-a897-faf4383e322d" x1="-23.67" y1="401.52" x2="-20.1" y2="401.52" gradientTransform="matrix(19.89, 0, 0, -19.89, 571.17, 8045.49)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ee966a"/>
+      <stop offset="0.07" stop-color="#ee9264"/>
+      <stop offset="0.16" stop-color="#ed8854"/>
+      <stop offset="0.27" stop-color="#eb783a"/>
+      <stop offset="0.38" stop-color="#e96115"/>
+      <stop offset="0.4" stop-color="#e95b0c"/>
+      <stop offset="0.61" stop-color="#df4e16"/>
+      <stop offset="0.96" stop-color="#c8312e"/>
+      <stop offset="1" stop-color="#c8312e"/>
+    </linearGradient>
+  </defs>
+  <title>Age UK logo</title>
+  <g>
+    <path d="M273.37,139.72c-20.29,12-30.91,3.37-32.72-3.29,39.66,7.63,49.73-35.82,12.6-35.74-7.32,0-30.48,4.65-31.26,29.66-1.08,34.79,42.5,33.27,55.35,17.81ZM259.51,115c3,6.14-3.47,14-19.42,11.39-.41-12.33,15.71-19,19.42-11.39" transform="translate(13.54 13.69)" style="fill: #2b2c6f"/>
+    <path d="M156.57,145.61c-2.29.9-6.46,1.79-6.46-4.77V105.25c-22.17-10.34-56-4-56,28,0,13.62,8.49,25.45,22.11,25.45,9,0,14.37-5,17.44-9.5,1.6,4.72,5.17,9.5,12,9.5,7.73,0,13.46-5.46,13.46-5.46Zm-24-6.28c-7.58,7.08-21.57,6-21.57-9.92a16,16,0,0,1,21.57-15.51Z" transform="translate(13.54 13.69)" style="fill: #2b2c6f"/>
+    <path d="M370.31,129.25,394.9,106c-4.09-8.35-10.6-4.37-13.16-2L360.09,125.3V102.52c-3.16-2.45-10.6-2.53-10.6,4.19v51.15h10.6V134.69c8.58,4.45,18.84,13.82,24.8,23.17H397.2c-4.53-9.41-16.88-21.91-26.89-28.61" transform="translate(13.54 13.69)" style="fill: #009de2"/>
+    <path d="M341.85,131.44V102.52c-3.16-2.45-10.6-2.53-10.6,4.19v26.55c0,7.82-3.86,15.51-14.45,15.51s-14.44-7.69-14.44-15.51V102.52c-3.16-2.45-10.61-2.53-10.61,4.19v24.73c0,10.12,3,27.29,25.05,27.29s25.05-17.17,25.05-27.29" transform="translate(13.54 13.69)" style="fill: #009de2"/>
+    <path d="M159.52,133.28c0,13.62,8.48,25.45,22.11,25.45A19.93,19.93,0,0,0,198,150.55v5.72c0,8.33-5.76,26.17-31.64,12.54l-3.88,8.85c9,9.38,21.68,8.67,21.68,8.67,21.08,0,31.4-15.9,31.4-29.84,0-2,0-51.24,0-51.24-22.17-10.34-56-3.25-56,28M198,139.33c-7.58,7.08-21.57,6-21.57-9.92,0-14,13-19,21.57-15.51Z" transform="translate(13.54 13.69)" style="fill: #2b2c6f"/>
+    <g style="clip-path: url(#c4637081-0881-48ca-8e4f-b724b91e898c)">
+      <rect x="6.96" y="43.48" width="99.78" height="99.93" transform="translate(-33.54 73.04) rotate(-40.52)" style="fill: url(#4ea85984-5592-4c61-8fd5-38ed7c250fda)"/>
+    </g>
+    <g style="clip-path: url(#f671e612-3b12-4d96-8498-bfd180684054)">
+      <rect x="2.49" y="69.5" width="94.5" height="54.39" style="fill: url(#0df08358-5794-43c7-bdf6-800d1bf14037)"/>
+    </g>
+    <g style="clip-path: url(#fdff1d52-d107-49d1-b51c-970a39c2553e)">
+      <rect x="107.79" y="27.35" width="71.95" height="49.88" style="fill: url(#4f5d9a1d-2ecb-43d0-917f-5a609313b890)"/>
+    </g>
+    <g style="clip-path: url(#07d1cb3d-4dc8-4ae7-9b37-7fee1e2797e1)">
+      <rect x="89.46" y="-2.95" width="103.9" height="124.77" transform="translate(42.26 177.19) rotate(-65.52)" style="fill: url(#54ccdf52-6b46-4196-a897-faf4383e322d)"/>
+    </g>
+  </g>
+</svg>
